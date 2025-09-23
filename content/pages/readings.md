@@ -149,7 +149,7 @@ Guest Participant: Christine Turner, Research Geologist, USGS (Invited)
 
 Kusel, J., S. C. Doak, S. Carpenter, and V. E. Sturtevant. "The Role of the Public in Adaptive Ecosystem Management." In\_Sierra Neveda Ecosystem Project: Final Report to Congress\_ 2. Vol. 2. Assessments and scientific basis for management options. Davis: University of California, Centers for Water and Wildlife Resources, 1996, pp. 611-624.
 
-Shindler, B., and K. A. Cheek. "[Integrating Citizens in Adaptive Management: A Propositional Analysis](https://www.researchgate.net/publication/42763224_Integrating_Citizens_in_Adaptive_Management_A_Propositional_Analysis)." *Conservation Ecology* 3, no. 1, 14 (1999).
+Shindler, B., and K. A. Cheek. "{{% resource_link "c5c4c4b7-1d7c-4a65-b112-be646e39a929" "Integrating Citizens in Adaptive Management: A Propositional Analysis" %}}." *Conservation Ecology* 3, no. 1, 14 (1999).
 
 Turner, C. E. "An Experience in John Day, Oregon - the Need for USGS Agenda-less Science in Collaborative Partnerships." An Internal USGS Report. 2003.
 
