@@ -6,8 +6,6 @@ description: Photograph and data slides for guest lecture by Robert Alverts, Sci
 file: /courses/11-941-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-i-fall-2003/2cb0dc8f4c7be4186e9fe68d410cee8f_nat_resrc.pdf
 file_size: 836382
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

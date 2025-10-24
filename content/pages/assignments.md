@@ -6,8 +6,6 @@ description: This section provides examples of student papers.  In addition to c
   the form of individual research papers or a role-play simulation developed by the
   class as a team that introduces participants in the Cape Wind controversy to the
   concept of Joint Fact Finding.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

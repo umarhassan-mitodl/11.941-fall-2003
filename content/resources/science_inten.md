@@ -4,8 +4,6 @@ description: Student research paper.
 file: /courses/11-941-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-i-fall-2003/80d7509dc65581eeb95a8fe8b9561134_science_inten.pdf
 file_size: 40990
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

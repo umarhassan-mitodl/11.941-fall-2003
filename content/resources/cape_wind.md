@@ -4,8 +4,6 @@ description: List of Players involved in the MTC Stakeholder meetings.
 file: /courses/11-941-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-i-fall-2003/d0bfef1233034d5ebb770650740ae5a6_cape_wind.pdf
 file_size: 220616
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
